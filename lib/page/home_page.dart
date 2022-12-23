@@ -14,8 +14,9 @@ class _HomePageState extends State<HomePage>{
   //data structure for list
   List todayList = [
     //[habitName, habitComplete]
-    ['Morning run', false],
-    ['Today is fxxk', false],
+    ['行動APP課程：繳交期末考作業', false],
+    ['企業倫理：下周四報告', false],
+    ['1/2起：期末考試週', false],
   ];
 
   //when checkbox was tapped

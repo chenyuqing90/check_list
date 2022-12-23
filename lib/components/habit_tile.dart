@@ -53,7 +53,7 @@ class HabitTile extends StatelessWidget{
                   value: habitCompleted,
                   onChanged: onChenge,
                 ),
-                Text(habitName, style: TextStyle(fontSize: 20),),
+                Text(habitName, style: TextStyle(fontSize: 16),),
               ],
             )
         ),
