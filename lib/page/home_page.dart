@@ -24,7 +24,9 @@ class _HomePageState extends State<HomePage>{
     setState(() {
       todayList[index][1] = value;
     });
+
   }
+
 
   //create new todolist
   final _NewHabitNameController = TextEditingController();

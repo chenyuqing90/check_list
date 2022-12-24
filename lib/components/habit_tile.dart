@@ -19,9 +19,10 @@ class HabitTile extends StatelessWidget{
 
   @override
   Widget build(BuildContext context){
-    return Padding(
-      padding: EdgeInsets.all(20),
-      child: Slidable(
+    return ListTile(
+      //padding: EdgeInsets.all(20),
+
+      title: Slidable(
         endActionPane: ActionPane(
           motion: StretchMotion(),
           children: [
