@@ -3,7 +3,7 @@
 ## 校園記事備忘清單
 - 功能
 
-可新增記事便條，在畫面左下方的floatActionButton
+可新增記事便條，在畫面右下方的floatActionButton
 - 彈跳視窗
 
 在新增時，會跳出一個alertDialog，可在TextField裡寫下紀錄內容
